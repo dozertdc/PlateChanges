@@ -1,0 +1,146 @@
+body {
+	background-color: black;
+}
+button {
+	width: 100%;
+	padding: 10px 10px 10px 10px;
+	margin: 5px 5px;
+	border-radius: 10px;
+	box-shadow: 1.5px 1.5px 1.5px #888888;
+	font-weight: bold;
+}
+dt {
+	float: left;
+	margin: 0 7px;
+}
+
+
+#w0_5 {
+  position: relative;
+  width: 9px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w1 {
+  position: relative;
+  width: 11px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w1_5 {
+  position: relative;
+  width: 14px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w2 {
+  position: relative;
+  width: 14px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w2_5 {
+  position: relative;
+  width: 17px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w5 {
+  position: relative;
+  width: 20px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w10 {
+  position: relative;
+  width: 22px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w15 {
+  position: relative;
+  width: 24px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w20 {
+  position: relative;
+  width: 26px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w25 {
+  position: relative;
+  width: 29px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w25_2 {
+  position: relative;
+  width: 29px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w25_3 {
+  position: relative;
+  width: 29px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#w25_4 {
+  position: relative;
+  width: 29px;
+  float: right;
+  display: none;
+  /*left: 294px;*/
+}
+#kezd {
+  position: relative;
+  width: 74px;
+  float: right;
+  /*left: 294px;*/
+}
+#hatter {
+  position: relative;
+  width: 300px;
+  float: right;
+  background-image:url(images/hatter.png);
+  background-repeat:no-repeat;
+}
+#lezar {
+  position: relative;
+  width: 43px;
+  float: right;
+}
+#lezar2 {
+  position: relative;
+  width: 25px;
+  float: right;
+}
+#kepek {
+  height: 300px;
+  width: 619px;
+  position: relative;
+  top: 20px;
+}
+#gombok {
+  height: 100px;
+  width: 245px;
+  position: relative;
+  left: 10px;
+  top: 40px;
+  float: left;
+  color:#FFF  
+}
